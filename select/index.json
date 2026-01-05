@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ぴゅあいんざわーるど (Live from FRUITS ZIPPER 3rd ANNIVERSARY 超めでたいライブ -さん-)",
+  "base_artist": "FRUITS ZIPPER",
+  "createdAt": "2026-01-05T01:27:30.841936Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ぴゅあいんざわーるど",
+      "artist": "FRUITS ZIPPER",
+      "has_synced": true,
+      "path": "select/01_ぴゅあいんざわーるど_FRUITS_ZIPPER.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぴゅあいんざわーるど",
+      "artist": "FRUITS ZIPPER",
+      "has_synced": false,
+      "path": "select/pl_01_ぴゅあいんざわーるど_FRUITS_ZIPPER.txt"
+    }
+  ]
+}
